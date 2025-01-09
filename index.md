@@ -9,3 +9,8 @@
 ```python
 print('Hello World')
 ```
+
+
+- [ ] Learn Markdown
+- [ ] Build a personal website
+- [ ] Conquer the world
